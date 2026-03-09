@@ -1,0 +1,8 @@
+{
+    "name": "FluteUsers",
+    "version": "1.0.1",
+    "description": "Module for displaying all registered users in the flute",
+    "authors": ["Flames"],
+    "providers": ["Flute\\Modules\\FluteUsers\\Providers\\FluteUsersProvider"],
+    "dependencies": {}
+}
